@@ -7,4 +7,4 @@
 mwangaumuruga/mwangaumuruga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> github is a favorite for me coz am able to check my progress since beginner days till now 
- and hence am able track my journey  in the technology space 
+  tracking  my passionate  journey  in the technology space 
