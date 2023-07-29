@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Hi, I’m mwangaumuruga,<br>On my epic quest to become a Professional Pen Tester,<br> Recently i was a 4th Yr IT Student at Kirinyaga University,<br>🌱 I’m currently attached as web development student at The Jitu<br>whilst  increasing my S.E skills  at ALX & the  Power Learn Project.<br>#💬 Linux lover, penguin enthusiast, and open-source evangelist.<br>Portfolio:https://mwangaumuruga.github.io/mwangaumurugaprofilewebsite.github.i.o/<br>⚡ Fun fact:Skateboarder who defies gravity, carving concrete<br> and diving into pools, merging water and wheels with style.
+🔭 Hi, I’m mwangaumuruga,<br>On my epic quest to become a Professional Pen Tester,<br> Recently i was a 4th Yr IT Student at Kirinyaga University,<br>🌱 I’m currently  focusing on JavaScript <br>whilst  increasing my S.E skills  at ALX <br>#💬 Linux lover, penguin enthusiast, and open-source evangelist.<br>Portfolio:https://mwangaumuruga.github.io/mwangaumurugaprofilewebsite.github.i.o/
+<br>Networks||DevSecOps||ITSpecialist<br>⚡ Fun fact:Skateboarder who defies gravity, carving concrete<br> and diving into pools, merging water and wheels with style.
 
 
 ## 🌐 Socials:
