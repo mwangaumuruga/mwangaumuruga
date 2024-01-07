@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Hi, I’m mwangaumuruga,<br>On my epic quest to become a Professional Pen Tester,<br>  <br>#💬 Linux lover, penguin enthusiast, and open-source evangelist.<br>
 <br>Networks||DevSecOps||ITSpecialist<br>⚡ Fun fact:Skateboarder who defies gravity, carving concrete<br> and diving into pools, merging water and wheels with style.
-
+[![Portfolio](https://mwangaumuruga.github.io/terminalPortfolio/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mwangaumuruga) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/murugamwangau) 
