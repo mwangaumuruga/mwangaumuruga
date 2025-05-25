@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Hi, I’m Mwangaumuruga,<br><b>On my epic quest to become a Professional Pen Tester,</b><br>  <br>#💬 The spirit of Linux, Penguins , and Open-source
+🔭 Hi, I’m Mwangaumuruga,<br><b>On_My_Epic_Quest_To_Become_A_Professional_Pen_Tester,</b><br>  <br>#The spirit of Linux, Penguins,and Open-source
 <br>Networks||DevSecOps||ITSpecialist|DevSecOps<br>⚡ Fun fact:Skateboarder who defies gravity,diving into pools merging water and wheels with style <b> <br>  <br>Reboot, drop in, and make a splash—debugging life with wheels and waves.🛹🏊‍♂️💻
 </b>
 
